@@ -1,0 +1,10 @@
+{
+  "name": "fde-feature-flags-interview-demo",
+  "version": "1.0.0",
+  "description": "Live debugging exercise for FDE feature flags interview",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "UNLICENSED"
+}
